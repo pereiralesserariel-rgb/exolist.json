@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Mi Canal 1",
+    "description": "Canal de prueba",
+    "url": "http://179.198.119.26/hls/stream2.m3u8",
+    "thumbnail": ""
+  },
+  {
+    "name": "Fútbol Paraguayo",
+    "description": "Partidos en vivo",
+    "url": "https://rumble.com/live-hls-dvr/kVmYlRY-6w4/playlist.m3u8?level=1",
+    "thumbnail": ""
+  }
+]
